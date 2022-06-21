@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhuoxiao-chen
-- 👀 I’m interested in domain adaptation and computer vision. 
+- 👀 I’m interested in 3D scene understanding and related machine learning algorithms. 
 - 🌱 I’m currently a Doctor of Philosophy (PHD) student at UQ.
 - 📫 Email me through zhuoxiao \[dot\] chen \[at\] uq \[dot\] edu \[dot\] au
 
