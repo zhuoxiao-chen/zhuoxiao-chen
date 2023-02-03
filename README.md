@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhuoxiao-chen
 - 👀 My research interest is 3D scene understanding and machine learning related algorithms. 
-- 🌱 I’m currently a Doctor of Philosophy (PHD) student at UQ.
+- 🌱 I’m currently a PHD student at UQ.
 - 📫 Email me through zhuoxiao \[dot\] chen \[at\] uq \[dot\] edu \[dot\] au
 
 <!---
